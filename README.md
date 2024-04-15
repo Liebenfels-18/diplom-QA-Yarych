@@ -5,7 +5,7 @@
 ## Документы
 * [План автоматизации](https://github.com/Liebenfels-18/diplom-QA-Yarych/blob/master/Plan.md)
 * [Отчет по итогам тестирования](https://github.com/Liebenfels-18/diplom-QA-Yarych/blob/master/Report.md)
-* [Отчет по итогам автоматизированного тестирования]()
+* [Отчет по итогам автоматизированного тестирования](https://github.com/Liebenfels-18/diplom-QA-Yarych/blob/master/Summary.md)
 
 На локальном компьютере заранее должны быть установлены IntelliJ IDEA и Docker.
 
